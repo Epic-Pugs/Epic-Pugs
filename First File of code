@@ -1,0 +1,9 @@
+{
+let cubeSize = 5;
+let width = 5;
+let height = 6;
+let length = 3;
+
+player.onChat("buildBlock", function(){
+  player.say("start Placing Stone");
+  for (
